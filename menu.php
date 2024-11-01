@@ -18,7 +18,7 @@ if (!isset($_SESSION['usuario'])) {
             <li><a href="administrador.php">Administrador</a></li>
             <li><a href="alumno.php">alumnos</a></li>
             <li><a href="ingresar_nota.php">Ingresar Nota</a></li>
-            <li><a href="guardar_nota.php">Guardar Nota</a></li>
+            <li><a href="docentes.php">Docentes</a></li>
             <li><a href="logout.php">Cerrar sesión</a></li>
         </ul>
     </nav>
